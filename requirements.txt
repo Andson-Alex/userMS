@@ -30,7 +30,7 @@ pd==0.0.1
 Pillow==7.0.0
 Pygments==2.5.2
 pytz==2019.3
-PyYAML==5.3
+PyYAML==5.4
 requests==2.23.0
 six==1.14.0
 sqlparse==0.3.0
